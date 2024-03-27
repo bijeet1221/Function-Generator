@@ -1,4 +1,4 @@
-Function Generator
+#Function Generator
 
 This project implements a versatile Function Generator capable of producing sinusoidal, square, triangular, and DC waveforms tailored to user specifications. It allows users to adjust the waveform type, amplitude, and frequency, offering flexibility and control over signal generation.
 Features
