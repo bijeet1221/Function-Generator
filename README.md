@@ -12,4 +12,6 @@ This project implements a versatile Function Generator capable of producing sinu
 
 The Function Generator is implemented in Multisim. The code provides a user-friendly interface for selecting waveform type, setting amplitude and frequency, and generating the desired signal.
 
+## Video link
 
+https://www.youtube.com/watch?v=YMHNvIr13z0
